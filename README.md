@@ -6,7 +6,7 @@ A simple Fastfetch configuration that does not overwhelm the user with informati
 1. Install Fastfetch: Follow the instructions on the main Fastfetch [GitHub repository](https://github.com/fastfetch-cli/fastfetch)
 2. Download this configuration by either directly downloading it through the "Code" button and downloading the ZIP file and extracting it or using Git by running the command `git clone https://github.com/sid3425/clean-fastfetch`.
 3. Once installed, generate a Fastfetch configuration since by default one does not exist by running the command `fastfetch --gen-config` in the CLI.
-4. The configuration will be located at `C:\Users\<YourUsername>\.config\fastfetch\config.jsonc` for Windows and `~/.config/fastfetch/config.jsonc` for Linux and macOS. Replace th `config.jsonc` file with the one in this repo and voila! The configuation is now installed.
+4. The configuration will be located at `C:\Users\<YourUsername>\.config\fastfetch\config.jsonc` for Windows and `~/.config/fastfetch/config.jsonc` for Linux and macOS. Replace the `config.jsonc` file with the one in this repo and voila! The configuation is now installed.
 
 Optional step: Load the configuration on shell startup by adding Fastfetch to your shell configuration file as follows-
 
