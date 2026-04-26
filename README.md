@@ -1,6 +1,4 @@
-## Archived repository. Please read the [profile README](https://github.com/sid3425/sid3425/blob/main/README.md) as to why. Here is the [new repository for this project](https://codeberg.org/sid3425/clean-fastfetch)
-
-A simple Fastfetch configuration that does not overwhelm the user with information like the default configuration, but still gets the job done and is minimal while looking cool. The accent adapts to your distribution's primary logo color, like in my case for Fedora its blue(as per the screenshot below) while for OpenSUSE its green and for Ubuntu its red and so on.
+A super simple fastfetch configuration that looks clean and minimal and doesn't put too much information on the screen
 
 ![fastfetch-screenshot](https://github.com/user-attachments/assets/2ff40b20-7362-4d26-a2d9-ef07578e0c82)
 
