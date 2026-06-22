@@ -1,4 +1,4 @@
-A super simple fastfetch configuration that looks clean and minimal and doesn't put too much information on the screen
+A really simple fastfetch configuration that looks clean, minimal, and doesn't add too much information on the screen
 
 ![fastfetch-screenshot](https://github.com/user-attachments/assets/2ff40b20-7362-4d26-a2d9-ef07578e0c82)
 
